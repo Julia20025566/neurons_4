@@ -1,0 +1,50 @@
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe.config
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.pdb
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csprojAssemblyReference.cache
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Properties.Resources.resources
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.GenerateResource.cache
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.CoreCompileInputs.cache
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.exe
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.pdb
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Form.resources
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe.config
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.pdb
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csprojAssemblyReference.cache
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Form.resources
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Properties.Resources.resources
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.GenerateResource.cache
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.CoreCompileInputs.cache
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.exe
+C:\Users\Анюта\source\repos\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.pdb
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe.config
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.pdb
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.AssemblyReference.cache
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Form.resources
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Properties.Resources.resources
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.GenerateResource.cache
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.CoreCompileInputs.cache
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.exe
+C:\Users\юзер\Desktop\Учеба\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.pdb
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe.config
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.pdb
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.AssemblyReference.cache
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Form.resources
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Properties.Resources.resources
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.GenerateResource.cache
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.CoreCompileInputs.cache
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.exe
+E:\Institute\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.pdb
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe.config
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.exe
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\bin\Debug\Backpropagation-error_lab4.pdb
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.AssemblyReference.cache
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Form.resources
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation_error_lab4.Properties.Resources.resources
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.GenerateResource.cache
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.csproj.CoreCompileInputs.cache
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.exe
+D:\4 КУРС\CII\СИИ\Backpropagation-error_lab4_2_0\Backpropagation-error_lab4\obj\Debug\Backpropagation-error_lab4.pdb
